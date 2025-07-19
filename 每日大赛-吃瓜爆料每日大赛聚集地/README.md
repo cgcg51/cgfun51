@@ -1,4 +1,5 @@
-print(f"\n=== {date} 咖啡因摄入报告 ===")
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>print(f"\n=== {date} 咖啡因摄入报告 ===")
         print(f"今日已摄入: {total}mg / {self daily_limit}mg")
         
         if total > self daily_limit * 1 2:
